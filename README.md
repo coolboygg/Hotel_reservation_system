@@ -1,1 +1,1 @@
-# Hotel_reservation_system
+# Hotel
